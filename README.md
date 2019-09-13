@@ -1,6 +1,1 @@
-# First commit from batch20
-# Adding Second Commit
-# Adding third commit
-This is change from RnstechDev1
-This is second change from RnstechDev1
-This is change from 
+This is the core file from Master Branch
